@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="nSeV97M0I02LrbMYXgVj" name="Página-1">
-    <mxGraphModel dx="1823" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2735" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,6 +138,18 @@
         </mxCell>
         <mxCell id="LcUDW4ZLy2K5f3cUajj_-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Modulo 9&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1910" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-50" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=90;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="2310" y="2557" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-51" parent="1" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera2;fillColorStyls=fillColor2;fillColor2=#00bceb;fillColor=#fafafa;strokeColor=#005073;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Camara tipo domo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="38.4" x="2241.6" y="2515" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-52" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=0;legacyAnchorPoints=0;rotation=-20;" value="" vertex="1">
+          <mxGeometry height="35" width="30" x="2110.3" y="2611.71" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-53" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=15;" value="" vertex="1">
+          <mxGeometry height="30" width="40.3" x="2069.36" y="2615.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
