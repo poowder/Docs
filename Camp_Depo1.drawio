@@ -62,25 +62,25 @@
           <mxGeometry height="15" width="30" x="1390" y="532.5" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-24" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210.001222920257" y="532.5012229202571" as="geometry" />
+          <mxGeometry height="17" width="34" x="1195.001222920257" y="532.5012229202571" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-25" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210" y="475.5" as="geometry" />
+          <mxGeometry height="17" width="34" x="1189.67" y="476.5" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-26" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210" y="418" as="geometry" />
+          <mxGeometry height="17" width="34" x="1191" y="418" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-27" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210" y="364" as="geometry" />
+          <mxGeometry height="17" width="34" x="1189.67" y="364" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-28" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210" y="310" as="geometry" />
+          <mxGeometry height="17" width="34" x="1186.5" y="307.5" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-29" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;" value="" vertex="1">
-          <mxGeometry height="17" width="34" x="1210" y="250" as="geometry" />
+          <mxGeometry height="17" width="34" x="1191" y="246.5" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-30" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-125;flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1191.67" y="528.47" as="geometry" />
+          <mxGeometry height="16" width="25" x="1164.67" y="528.47" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-32" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-225;flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="16" width="25" x="1191.0029218087" y="585.8280120444208" as="geometry" />
