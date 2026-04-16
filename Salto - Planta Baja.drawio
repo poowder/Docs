@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="nSeV97M0I02LrbMYXgVj" name="Página-1">
-    <mxGraphModel dx="1152" dy="-138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="-172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,21 @@
         </mxCell>
         <mxCell id="LcUDW4ZLy2K5f3cUajj_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sala Capacitacion&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="2281" y="2238" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;RRHH&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="4050" y="2275" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Deposito&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="4040" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-18" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" value="" vertex="1">
+          <mxGeometry height="25" width="40" x="4240" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-19" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=0;legacyAnchorPoints=0;flipV=1;rotation=-60;" value="" vertex="1">
+          <mxGeometry height="25" width="40" x="4237" y="2557" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-20" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=0;legacyAnchorPoints=0;flipV=0;rotation=0;" value="" vertex="1">
+          <mxGeometry height="25" width="40" x="3899.9953175473056" y="2505.0005080756887" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
