@@ -70,6 +70,9 @@
         <mxCell id="3o1TCbc7jlQ64VRJacc1-32" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-180;flipV=0;legacyAnchorPoints=0;flipH=0;" value="" vertex="1">
           <mxGeometry height="11.9" width="16.22" x="121.88999999999997" y="712.2999999999998" as="geometry" />
         </mxCell>
+        <mxCell id="u-8r3Ph4IAApa9IwHl75-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;h2&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Campichuelo Deposito 3&lt;/span&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="231.26" x="138.11" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
