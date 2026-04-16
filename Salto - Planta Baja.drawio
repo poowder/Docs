@@ -157,6 +157,12 @@
         <mxCell id="LcUDW4ZLy2K5f3cUajj_-55" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-213;flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="35" width="40" x="1299.9965042944955" y="2129.9965042944955" as="geometry" />
         </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-56" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-135;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="2848" y="3050" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-57" parent="1" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera2;fillColorStyls=fillColor2;fillColor2=#00bceb;fillColor=#fafafa;strokeColor=#005073;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Camara tipo domo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="38.4" x="2785.8" y="3010" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
