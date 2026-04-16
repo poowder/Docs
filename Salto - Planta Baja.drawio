@@ -43,6 +43,12 @@
         <mxCell id="LcUDW4ZLy2K5f3cUajj_-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;SIS&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="2830" y="2236" as="geometry" />
         </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Supervisores&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="2530" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sala Capacitacion&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="2281" y="2238" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
