@@ -31,6 +31,15 @@
         <mxCell id="LcUDW4ZLy2K5f3cUajj_-7" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-165;flipH=1;legacyAnchorPoints=0;flipV=0;" value="" vertex="1">
           <mxGeometry height="18" width="30" x="1842.0004153529667" y="2257.0047870852814" as="geometry" />
         </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-8" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=0;flipH=1;legacyAnchorPoints=0;flipV=0;" value="" vertex="1">
+          <mxGeometry height="18" width="30" x="2070.0004153529662" y="2200.0047870852814" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-9" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-180;flipH=1;legacyAnchorPoints=0;flipV=1;" value="" vertex="1">
+          <mxGeometry height="18" width="30" x="2251.0004153529662" y="2310.0047870852814" as="geometry" />
+        </mxCell>
+        <mxCell id="LcUDW4ZLy2K5f3cUajj_-10" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-50;flipH=1;legacyAnchorPoints=0;flipV=1;" value="" vertex="1">
+          <mxGeometry height="18" width="30" x="2384.2604153529664" y="2218.0047870852814" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
