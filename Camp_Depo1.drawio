@@ -34,6 +34,12 @@
         <mxCell id="d1WYCtdg99OF1ItBL_1j-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;E&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="25" x="1326.25" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="d1WYCtdg99OF1ItBL_1j-14" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-45;" value="" vertex="1">
+          <mxGeometry height="17" width="34" x="1506.12" y="391.29" as="geometry" />
+        </mxCell>
+        <mxCell id="d1WYCtdg99OF1ItBL_1j-15" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=50;" value="" vertex="1">
+          <mxGeometry height="17" width="25" x="1549.61" y="313.55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
