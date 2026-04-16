@@ -232,6 +232,12 @@
         <mxCell id="d1WYCtdg99OF1ItBL_1j-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Porton 2&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="252" y="592.33" as="geometry" />
         </mxCell>
+        <mxCell id="d1WYCtdg99OF1ItBL_1j-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Estacionamiento&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1506.11" y="568.71" as="geometry" />
+        </mxCell>
+        <mxCell id="d1WYCtdg99OF1ItBL_1j-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Estacionamiento&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1310" y="592.33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
