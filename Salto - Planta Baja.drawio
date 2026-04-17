@@ -253,6 +253,12 @@
         <mxCell id="5L7DDrcKzgjVEHBwxxDN-8" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#FFFF33);strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=-45;" value="" vertex="1">
           <mxGeometry height="35" width="40" x="1680" y="2750" as="geometry" />
         </mxCell>
+        <mxCell id="5L7DDrcKzgjVEHBwxxDN-9" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#FFFF33);strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=-84;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="2848" y="3099" as="geometry" />
+        </mxCell>
+        <mxCell id="5L7DDrcKzgjVEHBwxxDN-10" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#FFFF33);strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=7;" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="2923" y="2810" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
