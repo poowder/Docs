@@ -272,7 +272,7 @@
           <mxGeometry height="35" width="40" x="1720" y="2470" as="geometry" />
         </mxCell>
         <mxCell id="5L7DDrcKzgjVEHBwxxDN-17" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#FFFF33);strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=-120;flipV=1;" value="" vertex="1">
-          <mxGeometry height="35" width="40" x="2087.5" y="2362.5" as="geometry" />
+          <mxGeometry height="24.5" width="34.5" x="2082.42" y="2346.74" as="geometry" />
         </mxCell>
         <mxCell id="5L7DDrcKzgjVEHBwxxDN-18" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=light-dark(#CCCCCC,#FFFF33);strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;flipH=1;legacyAnchorPoints=0;rotation=-135;flipV=1;" value="" vertex="1">
           <mxGeometry height="35" width="40" x="2675" y="2272.5" as="geometry" />
