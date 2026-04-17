@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="7g-94ddKRD0u4I_AvPSL">
-    <mxGraphModel dx="1216" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="s7LkZoTiN_UHJDDptgNw-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Camara a reparar&lt;/span&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pUwi8VpvyBhJA9US4ybt-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#CC0000);strokeWidth=2;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0);&quot;&gt;Ca&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34.6" width="32.23" x="270.72999999999996" y="723.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
