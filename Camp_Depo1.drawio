@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="XBGs7AWrdN5ASVMWwLAD">
-    <mxGraphModel dx="1633" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,10 +101,10 @@
           <mxGeometry height="16" width="25" x="1005.0331905680519" y="536.7097934318837" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-39" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-180;flipV=1;legacyAnchorPoints=0;flipH=0;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1010" y="470" as="geometry" />
+          <mxGeometry height="16" width="25" x="1010" y="475" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-40" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-180;flipV=1;legacyAnchorPoints=0;flipH=0;" value="" vertex="1">
-          <mxGeometry height="16" width="25" x="1010" y="420" as="geometry" />
+          <mxGeometry height="16" width="25" x="1010" y="426" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-41" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-180;flipV=1;legacyAnchorPoints=0;flipH=0;" value="" vertex="1">
           <mxGeometry height="16" width="25" x="1010" y="364" as="geometry" />
@@ -456,6 +456,18 @@
         </mxCell>
         <mxCell id="IfyutWSAE7_qvr-lnDC6-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;77&lt;/span&gt;" vertex="1">
           <mxGeometry height="19" width="19" x="305" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;66&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="1008.03" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;67&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="990" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;69&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="995" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;70&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="1000" y="484" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
