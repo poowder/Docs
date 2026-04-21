@@ -227,10 +227,10 @@
           <mxGeometry height="30" width="60" x="960" y="530" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Porton 1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1080.18" y="601.83" as="geometry" />
+          <mxGeometry height="30" width="60" x="1074" y="572.5" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Porton 2&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="252" y="592.33" as="geometry" />
+          <mxGeometry height="16" width="60" x="239.99" y="584" as="geometry" />
         </mxCell>
         <mxCell id="d1WYCtdg99OF1ItBL_1j-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Estacionamiento&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1509.57" y="579" as="geometry" />
@@ -426,6 +426,9 @@
         </mxCell>
         <mxCell id="IfyutWSAE7_qvr-lnDC6-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;75&lt;/span&gt;" vertex="1">
           <mxGeometry height="19" width="19" x="1060" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;76&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="1134" y="613.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
