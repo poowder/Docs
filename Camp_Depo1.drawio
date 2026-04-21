@@ -445,6 +445,12 @@
         <mxCell id="IfyutWSAE7_qvr-lnDC6-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;78&lt;/span&gt;" vertex="1">
           <mxGeometry height="19" width="19" x="184.75" y="213.5" as="geometry" />
         </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;75&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" y="275.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;79&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="-5.539999999999999" y="213.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
