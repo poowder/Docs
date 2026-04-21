@@ -436,6 +436,9 @@
         <mxCell id="IfyutWSAE7_qvr-lnDC6-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;70&lt;/span&gt;" vertex="1">
           <mxGeometry height="19" width="19" x="-13.54" y="484.69" as="geometry" />
         </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;71&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="-13.54" y="562" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
