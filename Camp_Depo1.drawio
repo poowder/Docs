@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="XBGs7AWrdN5ASVMWwLAD">
-    <mxGraphModel dx="1978" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,6 +444,9 @@
         </mxCell>
         <mxCell id="IfyutWSAE7_qvr-lnDC6-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;74&lt;/span&gt;" vertex="1">
           <mxGeometry height="19" width="19" x="-13.54" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="IfyutWSAE7_qvr-lnDC6-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;78&lt;/span&gt;" vertex="1">
+          <mxGeometry height="19" width="19" x="184.75" y="213.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
