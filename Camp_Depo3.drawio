@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="7g-94ddKRD0u4I_AvPSL">
-    <mxGraphModel dx="490" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="479" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="3o1TCbc7jlQ64VRJacc1-16" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=92;flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="15" width="30" x="840.5" y="452.5" as="geometry" />
         </mxCell>
-        <mxCell id="3o1TCbc7jlQ64VRJacc1-17" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-95;flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="15" width="30" x="785.0189236531808" y="710.7526086305552" as="geometry" />
+        <mxCell id="3o1TCbc7jlQ64VRJacc1-17" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-60;flipV=0;legacyAnchorPoints=0;flipH=0;" value="" vertex="1">
+          <mxGeometry height="15.61" width="24.98" x="786.01" y="712.47" as="geometry" />
         </mxCell>
         <mxCell id="3o1TCbc7jlQ64VRJacc1-18" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=75;flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="11.9" width="16.22" x="717.39" y="740" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="s6AZ_vCkjXuoplGmrh-V-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;1&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="20" x="140.11" y="702.1" as="geometry" />
+        </mxCell>
+        <mxCell id="s6AZ_vCkjXuoplGmrh-V-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;2&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="796.99" y="714.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
